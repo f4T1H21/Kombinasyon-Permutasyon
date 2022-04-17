@@ -1,4 +1,4 @@
-#/usr/bin/python3
+#!/usr/bin/python3
 # ﺏ , Written by Şefik Efe aka f4T1H21
 def faktoriyel(x):
     if x == 0:
